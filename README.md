@@ -10,7 +10,7 @@
 
 #### A Quick Start Guide  
   
-- [Задание](./docs/01-assignment.md)
+- [Задание](./docs/01-task.md)
 - [Цель проекта](./docs/01-goal.md)
 - [Основная документация](./docs/readme.md)  
 - [Диаграммы](./docs/diagrams/)  
